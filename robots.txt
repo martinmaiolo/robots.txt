@@ -7,3 +7,13 @@ Disallow: /blackhole/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://perishablepress.com/wp-sitemap.xml
+
+OTRO:
+
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Sitemap: https://tonyteaches.tech/post-sitemap.xml
+Sitemap: https://tonyteaches.tech/page-sitemap.xml
